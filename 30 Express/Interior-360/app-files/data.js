@@ -68,20 +68,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.5795997694397075,
-        "pitch": 0.878102372158839,
+        "yaw": 1.6372062626477826,
+        "pitch": 0.873513203390285,
         "fov": 1.3806389203442926
       },
       "linkHotspots": [
         {
-          "yaw": -2.061154034014473,
-          "pitch": 0.8132205377895048,
+          "yaw": -2.0418886903468163,
+          "pitch": 0.7877845832239672,
           "rotation": 0,
           "target": "2-head"
         },
         {
-          "yaw": -0.6443704063201245,
-          "pitch": 0.40683466719154104,
+          "yaw": -0.6415440363270122,
+          "pitch": 0.39570882499081783,
           "rotation": 0,
           "target": "0-v-berth"
         }
@@ -130,8 +130,8 @@ var APP_DATA = {
   "name": "30 EXPRESS -INTERIOR",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "autorotateEnabled": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
