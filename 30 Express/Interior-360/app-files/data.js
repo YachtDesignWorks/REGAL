@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-v-birth",
-      "name": "V-BIRTH",
+      "id": "0-v-berth",
+      "name": "V-BERTH",
       "levels": [
         {
           "tileSize": 256,
@@ -83,7 +83,7 @@ var APP_DATA = {
           "yaw": -0.6443704063201245,
           "pitch": 0.40683466719154104,
           "rotation": 0,
-          "target": "0-v-birth"
+          "target": "0-v-berth"
         }
       ],
       "infoHotspots": []
